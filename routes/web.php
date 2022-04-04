@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Auth;
 |
 */
 // gagajgaj
+// Luc edit something here
 Auth::routes(['register' => false]);
 
 Route::get('logout', function () {
