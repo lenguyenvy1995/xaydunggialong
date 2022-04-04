@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Auth;
 */
 // gagajgaj
 // Luc edit something here
+// Luc edit lan 2
 Auth::routes(['register' => false]);
 
 Route::get('logout', function () {
