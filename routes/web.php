@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Auth;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// gagajgaj
 Auth::routes(['register' => false]);
 
 Route::get('logout', function () {
